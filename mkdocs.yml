@@ -1,0 +1,144 @@
+site_name: Physics VN
+site_description: Co so du lieu Markdown ve cac khai niem vat ly lon va co anh huong tu so khai den hien dai.
+site_url: https://brunotorilab.github.io/physics-vn/
+repo_url: https://github.com/BrunoTorilab/physics-vn
+repo_name: BrunoTorilab/physics-vn
+edit_uri: edit/main/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: vi
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Chuyen sang giao dien toi
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Chuyen sang giao dien sang
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search:
+      lang: vi
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: false
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Trang chu: index.md
+  - Gioi thieu:
+      - Tong quan du an: gioi-thieu.md
+      - Timeline vat ly: timeline.md
+      - Chi muc theo nam: index-by-year.md
+      - Chi muc theo linh vuc: index-by-field.md
+      - He the chu de: tags/README.md
+  - Khai niem:
+      - Nen tang co dien:
+          - Nguyen tu luan co dai: concepts/01-nguyen-tu-luan-co-dai.md
+          - Nhat tam he Mat Troi: concepts/02-nhat-tam-he-mat-troi.md
+          - Co hoc co dien: concepts/03-co-hoc-co-dien.md
+          - Hap dan pho quat: concepts/04-hap-dan-pho-quat.md
+          - Nhiet dong luc hoc: concepts/05-nhiet-dong-luc-hoc.md
+          - Co hoc thong ke: concepts/06-co-hoc-thong-ke.md
+          - Dien tu hoc: concepts/07-dien-tu-hoc.md
+          - Song dien tu: concepts/08-song-dien-tu.md
+      - Cau truc vat chat va hat nhan:
+          - Cau truc nguyen tu: concepts/09-cau-truc-nguyen-tu.md
+          - Phong xa: concepts/10-phong-xa.md
+          - Phan hach hat nhan: concepts/11-phan-hach-hat-nhan.md
+          - Vat ly ban dan: concepts/12-vat-ly-ban-dan.md
+          - Sieu dan: concepts/13-sieu-dan.md
+      - Cach mang luong tu va tuong doi:
+          - Luong tu hoa nang luong: concepts/14-luong-tu-hoa-nang-luong.md
+          - Song-hat luong tinh: concepts/15-song-hat-luong-tinh.md
+          - Co hoc luong tu: concepts/16-co-hoc-luong-tu.md
+          - Nguyen ly bat dinh: concepts/17-nguyen-ly-bat-dinh.md
+          - Thuyet tuong doi hep: concepts/18-thuyet-tuong-doi-hep.md
+          - Thuyet tuong doi rong: concepts/19-thuyet-tuong-doi-rong.md
+          - Phan vat chat: concepts/20-phan-vat-chat.md
+      - Vat ly hat va truong hien dai:
+          - Mo hinh quark va QCD: concepts/21-mo-hinh-quark-va-qcd.md
+          - Mo hinh chuan: concepts/22-mo-hinh-chuan.md
+          - Co che Higgs: concepts/23-co-che-higgs.md
+          - Dao dong neutrino: concepts/24-dao-dong-neutrino.md
+      - Vat ly vu tru va vat the cuc doan:
+          - Ho den: concepts/25-ho-den.md
+          - Mo hinh Big Bang: concepts/26-mo-hinh-big-bang.md
+          - Buc xa nen vi song vu tru: concepts/27-buc-xa-nen-vi-song-vu-tru.md
+          - Vat chat toi: concepts/28-vat-chat-toi.md
+          - Nang luong toi: concepts/29-nang-luong-toi.md
+          - Song hap dan: concepts/30-song-hap-dan.md
+      - Mo rong chuyen sau:
+          - Entropy: concepts/31-entropy.md
+          - Nguyen ly loai tru Pauli: concepts/32-nguyen-ly-loai-tru-pauli.md
+          - Spin: concepts/33-spin.md
+          - Thong ke Bose-Einstein: concepts/34-thong-ke-bose-einstein.md
+          - Thong ke Fermi-Dirac: concepts/35-thong-ke-fermi-dirac.md
+          - Sieu chay: concepts/36-sieu-chay.md
+          - Ngung tu Bose-Einstein: concepts/37-ngung-tu-bose-einstein.md
+          - Plasma: concepts/38-plasma.md
+          - Laser: concepts/39-laser.md
+          - Dien dong luc hoc luong tu: concepts/40-dien-dong-luc-hoc-luong-tu.md
+          - Ly thuyet truong luong tu: concepts/41-ly-thuyet-truong-luong-tu.md
+          - Ly thuyet gauge: concepts/42-ly-thuyet-gauge.md
+          - Thong nhat dien yeu: concepts/43-thong-nhat-dien-yeu.md
+          - Pha vo doi xung tu phat: concepts/44-pha-vo-doi-xung-tu-phat.md
+          - Dinh ly Noether: concepts/45-dinh-ly-noether.md
+          - Lam phat vu tru: concepts/46-lam-phat-vu-tru.md
+          - Ly thuyet hon loan: concepts/47-ly-thuyet-hon-loan.md
+          - Hieu ung Hall luong tu: concepts/48-hieu-ung-hall-luong-tu.md
+          - Tu dien tro khong lo: concepts/49-tu-dien-tro-khong-lo.md
+          - Cac pha to po cua vat chat: concepts/50-cac-pha-to-po-cua-vat-chat.md
+  - Tags:
+      - Tong quan he the: tags/README.md
+      - classical: tags/classical.md
+      - thermodynamics: tags/thermodynamics.md
+      - electromagnetism: tags/electromagnetism.md
+      - quantum: tags/quantum.md
+      - relativity: tags/relativity.md
+      - nuclear: tags/nuclear.md
+      - particle-physics: tags/particle-physics.md
+      - condensed-matter: tags/condensed-matter.md
+      - cosmology: tags/cosmology.md
+      - astrophysics: tags/astrophysics.md
+      - mathematical-foundations: tags/mathematical-foundations.md
+      - technology: tags/technology.md

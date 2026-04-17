@@ -1,0 +1,35 @@
+:root {
+  --physics-max-width: 78rem;
+}
+
+.md-grid {
+  max-width: var(--physics-max-width);
+}
+
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  scroll-margin-top: 5rem;
+}
+
+.md-typeset code {
+  border-radius: 0.35rem;
+}
+
+.md-nav__title,
+.md-nav__link {
+  font-size: 0.74rem;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset a {
+  text-decoration-thickness: 0.08em;
+}

@@ -19,6 +19,6 @@ Thư mục này đóng vai trò như một lớp điều hướng chéo giữa c
 
 ## Cách dùng
 
-- Nếu muốn đọc theo tuyến khái niệm, bắt đầu từ [README.md](../README.md).
+- Nếu muốn đọc theo tuyến khái niệm, bắt đầu từ [trang tổng quan](../gioi-thieu.md).
 - Nếu muốn đọc theo lịch sử, dùng [timeline.md](../timeline.md) hoặc [index-by-year.md](../index-by-year.md).
 - Nếu muốn nhảy giữa các chủ đề gần nhau, dùng các trang thẻ bên dưới.

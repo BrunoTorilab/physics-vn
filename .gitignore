@@ -1,0 +1,7 @@
+.docs-cache/
+.venv/
+venv/
+docs/
+site/
+__pycache__/
+*.pyc

@@ -247,5 +247,5 @@ Dòng thời gian này tổng hợp các khái niệm vật lý lớn trong bộ
 ## Ghi chú sử dụng
 
 - Dùng file này để đọc nhanh theo dòng lịch sử.
-- Dùng [README.md](README.md) để duyệt theo nhóm chủ đề.
-- Dùng thư mục [concepts](concepts) để đọc chi tiết từng khái niệm.
+- Dùng [trang tổng quan](gioi-thieu.md) để duyệt theo nhóm chủ đề.
+- Dùng sidebar hoặc các chỉ mục để đi vào từng file khái niệm chi tiết.
