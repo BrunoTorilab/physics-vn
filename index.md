@@ -1,36 +1,36 @@
 # Physics VN
 
-Trang này la diem vao cua phien ban web tinh duoc build tu bo Markdown `physics-concepts-db`.
+Trang này là điểm vào của phiên bản web tĩnh được build từ bộ Markdown `physics-concepts-db`.
 
-## Ban se thay gi o day
+## Bạn sẽ thấy gì ở đây
 
-- Mot kho tri thuc ve 50 khai niem vat ly lon, tu co dien den hien dai.
-- Dieu huong theo nhom chu de, theo nam, theo linh vuc, va theo he the.
-- Full-text search de tim nhanh cong thuc, nha khoa hoc, moc lich su, hoac khái niệm lien quan.
+- Một kho tri thức về 50 khái niệm vật lý lớn, từ cổ điển đến hiện đại.
+- Điều hướng theo nhóm chủ đề, theo năm, theo lĩnh vực, và theo hệ thẻ.
+- Full-text search để tìm nhanh công thức, nhà khoa học, mốc lịch sử, hoặc khái niệm liên quan.
 
-## Loi vao chinh
+## Lối vào chính
 
-- [Tong quan du an](gioi-thieu.md)
-- [Timeline vat ly](timeline.md)
-- [Chi muc theo nam](index-by-year.md)
-- [Chi muc theo linh vuc](index-by-field.md)
-- [He the chu de](tags/README.md)
+- [Tổng quan dự án](gioi-thieu.md)
+- [Timeline vật lý](timeline.md)
+- [Chỉ mục theo năm](index-by-year.md)
+- [Chỉ mục theo lĩnh vực](index-by-field.md)
+- [Hệ thẻ chủ đề](tags/README.md)
 
-## Cac cum noi dung lon
+## Các cụm nội dung lớn
 
-- Nen tang co dien: co hoc, hap dan, nhiet dong luc hoc, dien tu.
-- Cach mang luong tu: luong tu hoa nang luong, co hoc luong tu, bat dinh, spin, thong ke luong tu.
-- Vat ly hat va truong: Mo hinh chuan, QCD, Higgs, QFT, gauge, neutrino.
-- Vu tru hoc va thien van: Big Bang, CMB, vat chat toi, nang luong toi, ho den, song hap dan.
-- Vat chat ngung tu va cong nghe: ban dan, sieu dan, sieu chay, laser, Hall luong tu, vat chat to po.
+- Nền tảng cổ điển: cơ học, hấp dẫn, nhiệt động lực học, điện từ.
+- Cách mạng lượng tử: lượng tử hóa năng lượng, cơ học lượng tử, bất định, spin, thống kê lượng tử.
+- Vật lý hạt và trường: Mô hình chuẩn, QCD, Higgs, QFT, gauge, neutrino.
+- Vũ trụ học và thiên văn: Big Bang, CMB, vật chất tối, năng lượng tối, hố đen, sóng hấp dẫn.
+- Vật chất ngưng tụ và công nghệ: bán dẫn, siêu dẫn, siêu chảy, laser, Hall lượng tử, vật chất tô pô.
 
-## Goi y cach doc
+## Gợi ý cách đọc
 
-1. Neu muon doc nhu mot cau chuyen lich su, bat dau tu [timeline.md](timeline.md).
-2. Neu muon hoc theo mon, vao [index-by-field.md](index-by-field.md).
-3. Neu muon lan theo cac cum y tuong gan nhau, vao [tags/README.md](tags/README.md).
-4. Neu da biet ten chu de, dung search o goc trang.
+1. Nếu muốn đọc như một câu chuyện lịch sử, bắt đầu từ [timeline.md](timeline.md).
+2. Nếu muốn học theo môn, vào [index-by-field.md](index-by-field.md).
+3. Nếu muốn lần theo các cụm ý tưởng gần nhau, vào [tags/README.md](tags/README.md).
+4. Nếu đã biết tên chủ đề, dùng search ở góc trang.
 
-## Luu y
+## Lưu ý
 
-Noi dung duoc viet de de tra cuu va mo rong. Day khong phai giao trinh day du cho tung nhanh hep, ma la mot co so du lieu nen tang co the tiep tuc phat trien.
+Nội dung được viết để dễ tra cứu và mở rộng. Đây không phải giáo trình đầy đủ cho từng nhánh hẹp, mà là một cơ sở dữ liệu nền tảng có thể tiếp tục phát triển.
