@@ -8,10 +8,6 @@ Dòng thời gian này tổng hợp các khái niệm vật lý lớn trong bộ
 - **Nguyên tử luận cổ đại**: Leucippus và Democritus đề xuất ý tưởng vật chất gồm các đơn vị rời rạc cơ bản.
 - File: [01-nguyen-tu-luan-co-dai.md](concepts/01-nguyen-tu-luan-co-dai.md)
 
-### 1543
-- **Nhật tâm hệ Mặt Trời**: Copernicus xuất bản mô hình Mặt Trời ở trung tâm, mở đầu cho cách mạng khoa học.
-- File: [02-nhat-tam-he-mat-troi.md](concepts/02-nhat-tam-he-mat-troi.md)
-
 ### 1687
 - **Cơ học cổ điển**: Newton hệ thống hóa động lực học trong `Principia`.
 - File: [03-co-hoc-co-dien.md](concepts/03-co-hoc-co-dien.md)
@@ -125,14 +121,6 @@ Dòng thời gian này tổng hợp các khái niệm vật lý lớn trong bộ
 ### 1965
 - **Bức xạ nền vi sóng vũ trụ**: Penzias và Wilson phát hiện CMB.
 - File: [27-buc-xa-nen-vi-song-vu-tru.md](concepts/27-buc-xa-nen-vi-song-vu-tru.md)
-
-### 1970s
-- **Mô hình chuẩn**: khung lý thuyết hạt cơ bản và ba tương tác phi hấp dẫn được định hình.
-- File: [22-mo-hinh-chuan.md](concepts/22-mo-hinh-chuan.md)
-- **Mô hình quark và QCD**: QCD trở thành lý thuyết chuẩn cho lực mạnh.
-- File: [21-mo-hinh-quark-va-qcd.md](concepts/21-mo-hinh-quark-va-qcd.md)
-- **Vật chất tối**: đường cong quay thiên hà của Vera Rubin củng cố mạnh bằng chứng.
-- File: [28-vat-chat-toi.md](concepts/28-vat-chat-toi.md)
 
 ### 1986
 - **Siêu dẫn nhiệt độ cao**: mở rộng rất mạnh nghiên cứu vật liệu siêu dẫn.
