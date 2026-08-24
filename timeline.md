@@ -8,10 +8,6 @@ Dòng thời gian này tổng hợp các khái niệm vật lý lớn trong bộ
 - **Nguyên tử luận cổ đại**: Leucippus và Democritus đề xuất ý tưởng vật chất gồm các đơn vị rời rạc cơ bản.
 - File: [01-nguyen-tu-luan-co-dai.md](concepts/01-nguyen-tu-luan-co-dai.md)
 
-### 1543
-- **Nhật tâm hệ Mặt Trời**: Copernicus xuất bản mô hình Mặt Trời ở trung tâm, mở đầu cho cách mạng khoa học.
-- File: [02-nhat-tam-he-mat-troi.md](concepts/02-nhat-tam-he-mat-troi.md)
-
 ### 1687
 - **Cơ học cổ điển**: Newton hệ thống hóa động lực học trong `Principia`.
 - File: [03-co-hoc-co-dien.md](concepts/03-co-hoc-co-dien.md)
